@@ -2,7 +2,7 @@
 Mining profitability data.
 Here is some data I gathered from GlassNode. The date range is July 12 2020 through July 10 2021.
 
-This data provides four different electricity rates: $0.03/kWh, $0.08/kWh, $0.13/kWh, & $0.25/kWh to help a range users. 
+This data provides four different electricity rates: $0.03/kWh, $0.08/kWh, $0.13/kWh, & $0.25/kWh to help a range of users. 
 
 The BTC price in USD is the daily close. 
 The daily mean hashrate is used. 
